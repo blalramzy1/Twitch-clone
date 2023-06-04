@@ -1,5 +1,4 @@
 import NavBar from '@/components/NavBar'
-import SlideMenu from '@/components/SlideMenu'
 import '@/styles/globals.css'
 import {SessionProvider} from 'next-auth/react'
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import Main from './Main'
+import Main from './main'
 import SlideMenu from './SlideMenu'
 
 const Layout = () => {
